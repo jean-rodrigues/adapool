@@ -4,9 +4,9 @@
         "url_png_logo": "https://raw.githubusercontent.com/jean-rodrigues/adapool/main/qOw2_8Pq_400x400.jpeg",
         "location": "Worldwide",
         "social": {
-            "twitter_handle": "CryptoStakers",
-            "telegram_handle": "CryptoStakersNetwork",
-            "facebook_handle": "CryptoStakersNetwork",
+            "twitter_handle": "https://twitter.com/CryptoStakers",
+            "telegram_handle": "https://t.me/CryptoStakersNetwork",
+            "facebook_handle": "https://facebook.com/CryptoStakersNetwork",
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "https://discord.gg/VFHRHNXQ",
@@ -33,5 +33,5 @@
 
     "telegram-admin-handle": {
         "0": "CryptoStakers"
-    },
+    }
  }
